@@ -27,40 +27,40 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
 
   when(Constructed){
     case Event(Initialize,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ Initialize)
+      displayState(Initialize)
       goto(Initiated) using Initialize
   }
 
   when(Initiated){
     case Event(Start,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ Start)
+      displayState(Start)
       goto(Started) using Start
     case Event(Failure,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ Failure)
+      displayState(Failure)
       goto(End) using Failure
   }
 
   when(Started){
     case Event(EndOfStream,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ EndOfStream)
+      displayState(EndOfStream)
       goto(End) using Success
     case Event(FutureComplete,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ FutureComplete)
+      displayState(FutureComplete)
       stay() using FutureComplete
     case Event(Failure,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ Failure)
+      displayState(Failure)
       goto(End) using Failure
   }
 
   when(End){
     case Event(Success,_)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ Success)
+      displayState(Success)
       stop()
   }
 
   whenUnhandled{
     case Event(event,state)=>
-      println("Current State : "+ stateName+ "  Event Occurred : "+ event)
+      displayState(event.asInstanceOf[NodeData])
       println("Unhandled Event Occurred \n ")
       stay()
   }
@@ -70,5 +70,12 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
     case Initiated -> Started=> println("Moved from Initiated to Started State \n ")
     case Started -> End=> println("Moved from Started to End State\n ")
   }
+
+  // To display the current state & the event occurred
+  def displayState(event: NodeData): Unit = {
+    println("Current State : " + stateName + "  Event Occurred : " + event)
+  }
+
+  //Initialize DiwoEngine
   initialize()
 }
