@@ -54,7 +54,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   whenUnhandled{
     case Event(e,s)=>
       println("Unhandled Event Occured")
-      stop()
+      stay()
   }
 
   onTransition{

@@ -8,9 +8,15 @@ object NodeDemo extends App {
   val diwoEnginActor = system.actorOf(Props(classOf[DiwoEngine]), "DiwoEngine")
   diwoEnginActor ! Initialize
   Thread.sleep(500)
-  diwoEnginActor ! Start
-  Thread.sleep(500)
+
   diwoEnginActor ! EndOfStream
   Thread.sleep(500)
+
+  diwoEnginActor ! Start
+  Thread.sleep(500)
+
+  diwoEnginActor ! EndOfStream
+  Thread.sleep(500)
+
   diwoEnginActor ! EmptyMessage
 }
