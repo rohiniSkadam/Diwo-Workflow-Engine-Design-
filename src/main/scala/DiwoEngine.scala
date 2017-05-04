@@ -27,40 +27,48 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
 
   when(Constructed){
     case Event(Initialize,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ Initialize)
       goto(Initiated) using Initialize
   }
 
   when(Initiated){
     case Event(Start,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ Start)
       goto(Started) using Start
     case Event(Failure,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ Failure)
       goto(End) using Failure
   }
 
   when(Started){
     case Event(EndOfStream,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ EndOfStream)
       goto(End) using Success
     case Event(FutureComplete,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ FutureComplete)
       stay() using FutureComplete
     case Event(Failure,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ Failure)
       goto(End) using Failure
   }
 
   when(End){
     case Event(Success,_)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ Success)
       stop()
   }
 
   whenUnhandled{
-    case Event(e,s)=>
-      println("Unhandled Event Occured")
+    case Event(event,state)=>
+      println("Current State : "+ stateName+ "  Event Occurred : "+ event)
+      println("Unhandled Event Occurred \n ")
       stay()
   }
 
   onTransition{
-    case Constructed -> Initiated => println("Moved from Constructed to Initiated")
-    case Initiated -> Started=> println("Moved from Initiated to Started")
-    case Started -> End=> println("Moved from Started to End")
+    case Constructed -> Initiated => println("Moved from Constructed to Initiated State \n ")
+    case Initiated -> Started=> println("Moved from Initiated to Started State \n ")
+    case Started -> End=> println("Moved from Started to End State\n ")
   }
   initialize()
 }

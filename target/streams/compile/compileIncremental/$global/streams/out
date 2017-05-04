@@ -16,13 +16,13 @@
 [0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/synerzip/sample2/target/scala-2.12/classes...[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
 [0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 67ffe774, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
+[0m[[0mdebug[0m] [0mRunning cached compiler 6695ce33, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
 [0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
 [0m[[0mdebug[0m] [0m	-bootclasspath[0m
 [0m[[0mdebug[0m] [0m	/usr/lib/jvm/jdk1.8.0_111/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_111/jre/classes:/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
 [0m[[0mdebug[0m] [0m	-classpath[0m
 [0m[[0mdebug[0m] [0m	/home/synerzip/sample2/target/scala-2.12/classes:/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar:/home/synerzip/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar:/home/synerzip/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.521242717 s[0m
+[0m[[0mdebug[0m] [0mScala compilation took 4.613557819 s[0m
 [0m[[0mdebug[0m] [0mNew invalidations:[0m
 [0m[[0mdebug[0m] [0m	Set()[0m
 [0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m

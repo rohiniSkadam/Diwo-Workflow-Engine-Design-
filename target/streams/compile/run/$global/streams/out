@@ -8,4 +8,7 @@
 [0m[[0mdebug[0m] [0m	/home/synerzip/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
-[0m[[0mdebug[0m] [0mWaiting for thread DiwoEngine-akka.actor.default-dispatcher-3 to terminate.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread DiwoEngine-scheduler-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread DiwoEngine-scheduler-1 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread Thread-1 to terminate.[0m
+[0m[[0mdebug[0m] [0m	Thread Thread-1 exited.[0m

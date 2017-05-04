@@ -6,6 +6,7 @@ import akka.actor.{ActorSystem, Props}
 object NodeDemo extends App {
   val system = ActorSystem("DiwoEngine")
   val diwoEnginActor = system.actorOf(Props(classOf[DiwoEngine]), "DiwoEngine")
+
   diwoEnginActor ! Initialize
   Thread.sleep(500)
 
