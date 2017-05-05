@@ -1,6 +1,7 @@
 /**
   * Created by synerzip on 3/5/17.
   */
+
 import akka.actor.FSM
 
 //States
@@ -23,52 +24,77 @@ case object FutureComplete extends NodeData
 
 class DiwoEngine extends FSM[NodeState, NodeData] {
 
-  startWith(Constructed,Initialize)
+  // To set initial state
+  startWith(Constructed, Initialize)
 
-  when(Constructed){
-    case Event(Initialize,_)=>
+  // When Initialize Event It calls displayState method & also changes node state from constructed to Initiated
+  when(Constructed) {
+    case Event(Initialize, _) =>
       displayState(Initialize)
       goto(Initiated) using Initialize
   }
 
-  when(Initiated){
-    case Event(Start,_)=>
+  /*
+  When start event occurre it changes node state from Initiated to Started
+  When Failure event occurre it changes node state from Initiated to End
+  for all events it calls displayState method
+   */
+  when(Initiated) {
+    case Event(Start, _) =>
       displayState(Start)
       goto(Started) using Start
-    case Event(Failure,_)=>
+    case Event(Failure, _) =>
       displayState(Failure)
       goto(End) using Failure
   }
 
-  when(Started){
-    case Event(EndOfStream,_)=>
+  /*
+  When EndOfStream event occurred it will changes its state from Started to End
+  When FutureComplete event occurred it will not changes its current state
+  When Failure event occurred it will goes into the End state
+  For all events it calls the displayState method
+   */
+  when(Started) {
+    case Event(EndOfStream, _) =>
       displayState(EndOfStream)
       goto(End) using Success
-    case Event(FutureComplete,_)=>
+    case Event(FutureComplete, _) =>
       displayState(FutureComplete)
       stay() using FutureComplete
-    case Event(Failure,_)=>
+    case Event(Failure, _) =>
       displayState(Failure)
       goto(End) using Failure
   }
 
-  when(End){
-    case Event(Success,_)=>
+  /*
+  When Success event occurred in End state it will terminates the FSM
+   before terminating it calls the displayState method
+   */
+  when(End) {
+    case Event(Success, _) =>
       displayState(Success)
       stop()
   }
 
-  whenUnhandled{
-    case Event(event,state)=>
+  /*
+  When state dosent handle the event then those events are handled here
+  It will not change the current state
+  It also calls the displayState method
+   */
+  whenUnhandled {
+    case Event(event, state) =>
       displayState(event.asInstanceOf[NodeData])
       println("Unhandled Event Occurred \n ")
       stay()
   }
 
-  onTransition{
+  /*
+   Set handler which is called upon each state transition
+   */
+  onTransition {
     case Constructed -> Initiated => println("Moved from Constructed to Initiated State \n ")
-    case Initiated -> Started=> println("Moved from Initiated to Started State \n ")
-    case Started -> End=> println("Moved from Started to End State\n ")
+    case Initiated -> Started => println("Moved from Initiated to Started State \n ")
+    case Started -> End => println("Moved from Started to End State\n ")
   }
 
   // To display the current state & the event occurred
@@ -79,3 +105,5 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   //Initialize DiwoEngine
   initialize()
 }
+
+
