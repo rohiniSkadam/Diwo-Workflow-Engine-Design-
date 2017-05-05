@@ -30,7 +30,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   // When Initialize Event It calls displayState method & also changes node state from constructed to Initiated
   when(Constructed) {
     case Event(Initialize, _) =>
-      displayState(Initialize)
+      onInitialize()
       goto(Initiated) using Initialize
   }
 
@@ -41,10 +41,10 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
    */
   when(Initiated) {
     case Event(Start, _) =>
-      displayState(Start)
+      onStart()
       goto(Started) using Start
     case Event(Failure, _) =>
-      displayState(Failure)
+      onFailure()
       goto(End) using Failure
   }
 
@@ -56,13 +56,13 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
    */
   when(Started) {
     case Event(EndOfStream, _) =>
-      displayState(EndOfStream)
+      onEndOfStream()
       goto(End) using Success
     case Event(FutureComplete, _) =>
-      displayState(FutureComplete)
+      onFutureComplete()
       stay() using FutureComplete
     case Event(Failure, _) =>
-      displayState(Failure)
+      onFailure()
       goto(End) using Failure
   }
 
@@ -72,7 +72,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
    */
   when(End) {
     case Event(Success, _) =>
-      displayState(Success)
+      onSuccess()
       stop()
   }
 
@@ -83,8 +83,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
    */
   whenUnhandled {
     case Event(event, state) =>
-      displayState(event.asInstanceOf[NodeData])
-      println("Unhandled Event Occurred \n ")
+      println("Unhandled Event Occurred in State "+stateName+"\n")
       stay()
   }
 
@@ -97,13 +96,53 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
     case Started -> End => println("Moved from Started to End State\n ")
   }
 
-  // To display the current state & the event occurred
-  def displayState(event: NodeData): Unit = {
-    println("Current State : " + stateName + "  Event Occurred : " + event)
+  //displays state when Initialization event occurred
+  def onInitialize(): Unit ={
+    displayState()
+    println("On Initialize event.")
+  }
+
+  //displays state when Start event occurred
+  def onStart(): Unit ={
+    displayState()
+    println("On Start event." )
+  }
+
+  //displays state when Failure event occurred
+  def onFailure(): Unit ={
+    displayState()
+    println("On Failure event.")
+  }
+
+  //displays state when End of stream event occurred
+  def onEndOfStream(): Unit ={
+    displayState()
+    println("On End of stream event.")
+  }
+
+  //displays state when On Future Complete event occurred
+  def onFutureComplete(): Unit ={
+    displayState()
+    println("On Future Complete event.")
+  }
+
+  //displays state when success event occurred
+  def onSuccess(): Unit ={
+    displayState()
+    println("On Success event.")
+  }
+
+  //displays state when Exception event occurred
+  def onException(): Unit ={
+    displayState()
+    println("On Exception event.")
+  }
+
+  //Displays current state name
+  def displayState(): Unit = {
+    println("Current State : "+stateName)
   }
 
   //Initialize DiwoEngine
   initialize()
 }
-
-

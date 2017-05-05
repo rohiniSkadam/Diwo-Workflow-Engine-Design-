@@ -703,9 +703,9 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-agent;0.13.8!test-agent.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
-[debug] :: resolution report :: resolve 802ms :: artifacts dl 18ms
+[debug] :: resolution report :: resolve 647ms :: artifacts dl 18ms
 [debug] 	report for default#sample2$sbt_2.12;1.0 default produced in /home/synerzip/sample2/target/resolution-cache/reports/default-sample2$sbt_2.12-default.xml
-[debug] 	resolve done (802ms resolve - 18ms download)
+[debug] 	resolve done (647ms resolve - 18ms download)
 [debug] Using inline dependencies specified in Scala.
 [debug] :: resolving dependencies :: default#sample2$sources_2.12;1.0
 [debug] 	confs: [default]
@@ -1069,6 +1069,6 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_8_2;0.13.8!precompiled-2_8_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_2;0.13.8!precompiled-2_9_2.jar(src)
 [debug] 	[NOT REQUIRED] org.scala-sbt#precompiled-2_9_3;0.13.8!precompiled-2_9_3.jar(src)
-[debug] :: resolution report :: resolve 92ms :: artifacts dl 15ms
+[debug] :: resolution report :: resolve 81ms :: artifacts dl 14ms
 [debug] 	report for default#sample2$sources_2.12;1.0 default produced in /home/synerzip/sample2/target/resolution-cache/reports/default-sample2$sources_2.12-default.xml
-[debug] 	resolve done (92ms resolve - 15ms download)
+[debug] 	resolve done (81ms resolve - 14ms download)
