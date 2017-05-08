@@ -13,7 +13,7 @@ object NodeDemo extends App {
 
   diwoEnginActor ! EndOfStream
   Thread.sleep(500)
-
+  
   diwoEnginActor ! Start
   Thread.sleep(500)
 

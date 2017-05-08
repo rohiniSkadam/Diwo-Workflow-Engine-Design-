@@ -1,18 +1,17 @@
 /**
   * Created by synerzip on 3/5/17.
   */
-
 import akka.actor.FSM
 
 //States
-trait NodeState
+sealed trait NodeState
 case object Constructed extends NodeState
 case object Initiated extends NodeState
 case object Started extends NodeState
 case object End extends NodeState
 
 //Data
-trait NodeData
+sealed trait NodeData
 case object Initialize extends NodeData
 case object Start extends NodeData
 case object EndOfStream extends NodeData
@@ -35,8 +34,8 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   }
 
   /*
-  When start event occurre it changes node state from Initiated to Started
-  When Failure event occurre it changes node state from Initiated to End
+  When start event occurs it changes node state from Initiated to Started
+  When Failure event occurs it changes node state from Initiated to End
   for all events it calls displayState method
    */
   when(Initiated) {
@@ -68,7 +67,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
 
   /*
   When Success event occurred in End state it will terminates the FSM
-   before terminating it calls the displayState method
+  before terminating it calls the displayState method
    */
   when(End) {
     case Event(Success, _) =>
@@ -77,7 +76,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   }
 
   /*
-  When state dosent handle the event then those events are handled here
+  When state doesn't handle the event then those events are handled here
   It will not change the current state
   It also calls the displayState method
    */
@@ -88,8 +87,8 @@ class DiwoEngine extends FSM[NodeState, NodeData] {
   }
 
   /*
-   Set handler which is called upon each state transition
-   */
+  Set handler which is called upon each state transition
+  */
   onTransition {
     case Constructed -> Initiated => println("Moved from Constructed to Initiated State \n ")
     case Initiated -> Started => println("Moved from Initiated to Started State \n ")
