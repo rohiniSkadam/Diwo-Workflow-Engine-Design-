@@ -1,4 +1,5 @@
 import akka.actor.{ActorSystem, Props}
+import akka.event.Logging
 
 /**
   * Created by synerzip on 4/5/17.
@@ -6,19 +7,19 @@ import akka.actor.{ActorSystem, Props}
 object NodeDemo extends App {
   //Create Actor System
   val system = ActorSystem("DiwoEngine")
-  val diwoEnginActor = system.actorOf(Props(classOf[DiwoEngine]), "DiwoEngine")
+  val diwoEngineActor = system.actorOf(Props(classOf[DiwoEngine]), "DiwoEngine")
 
-  diwoEnginActor ! Initialize
+  diwoEngineActor ! Initialize
   Thread.sleep(500)
 
-  diwoEnginActor ! EndOfStream
-  Thread.sleep(500)
-  
-  diwoEnginActor ! Start
+  diwoEngineActor ! EndOfStream
   Thread.sleep(500)
 
-  diwoEnginActor ! EndOfStream
+  diwoEngineActor ! Start
   Thread.sleep(500)
 
-  diwoEnginActor ! EmptyMessage
+  diwoEngineActor ! EndOfStream
+  Thread.sleep(500)
+
+  diwoEngineActor ! EmptyMessage
 }

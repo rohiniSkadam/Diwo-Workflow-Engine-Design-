@@ -2,38 +2,14 @@
 [0m[[0mdebug[0m] [0mInitial source changes: [0m
 [0m[[0mdebug[0m] [0m	removed:Set()[0m
 [0m[[0mdebug[0m] [0m	added: Set()[0m
-[0m[[0mdebug[0m] [0m	modified: Set(/home/synerzip/sample2/src/main/scala/DiwoEngine.scala)[0m
+[0m[[0mdebug[0m] [0m	modified: Set()[0m
 [0m[[0mdebug[0m] [0mRemoved products: Set()[0m
 [0m[[0mdebug[0m] [0mExternal API changes: API Changes: Set()[0m
 [0m[[0mdebug[0m] [0mModified binary dependencies: Set()[0m
-[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set(/home/synerzip/sample2/src/main/scala/DiwoEngine.scala)[0m
+[0m[[0mdebug[0m] [0mInitial directly invalidated sources: Set()[0m
 [0m[[0mdebug[0m] [0m[0m
 [0m[[0mdebug[0m] [0mSources indirectly invalidated by:[0m
 [0m[[0mdebug[0m] [0m	product: Set()[0m
 [0m[[0mdebug[0m] [0m	binary dep: Set()[0m
 [0m[[0mdebug[0m] [0m	external source: Set()[0m
-[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set(/home/synerzip/sample2/src/main/scala/DiwoEngine.scala)[0m
-[0m[[0minfo[0m] [0mCompiling 1 Scala source to /home/synerzip/sample2/target/scala-2.12/classes...[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mGetting compiler-interface from component compiler for Scala 2.12.2[0m
-[0m[[0mdebug[0m] [0mRunning cached compiler 6369592d, interfacing (CompilerInterface) with Scala compiler version 2.12.2[0m
-[0m[[0mdebug[0m] [0mCalling Scala compiler with arguments  (CompilerInterface):[0m
-[0m[[0mdebug[0m] [0m	-bootclasspath[0m
-[0m[[0mdebug[0m] [0m	/usr/lib/jvm/jdk1.8.0_111/jre/lib/resources.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/sunrsasign.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jsse.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jce.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/charsets.jar:/usr/lib/jvm/jdk1.8.0_111/jre/lib/jfr.jar:/usr/lib/jvm/jdk1.8.0_111/jre/classes:/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar[0m
-[0m[[0mdebug[0m] [0m	-classpath[0m
-[0m[[0mdebug[0m] [0m	/home/synerzip/sample2/target/scala-2.12/classes:/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar:/home/synerzip/.ivy2/cache/com.typesafe/config/bundles/config-1.3.1.jar:/home/synerzip/.ivy2/cache/org.scala-lang.modules/scala-java8-compat_2.12/bundles/scala-java8-compat_2.12-0.8.0.jar[0m
-[0m[[0mdebug[0m] [0mScala compilation took 4.51396153 s[0m
-[0m[[0mdebug[0m] [0mInvalidating /home/synerzip/sample2/src/main/scala/DiwoEngine.scala...[0m
-[0m[[0mdebug[0m] [0mInvalidating (transitively) by inheritance from /home/synerzip/sample2/src/main/scala/DiwoEngine.scala...[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set(/home/synerzip/sample2/src/main/scala/DiwoEngine.scala)[0m
-[0m[[0mdebug[0m] [0mInvalidated by transitive inheritance dependency: Set(/home/synerzip/sample2/src/main/scala/DiwoEngine.scala)[0m
-[0m[[0mdebug[0m] [0mThe /home/synerzip/sample2/src/main/scala/DiwoEngine.scala source file has the following regular definitions changed:[0m
-[0m[[0mdebug[0m] [0m	NodeState, NodeData.[0m
-[0m[[0mdebug[0m] [0mAll member reference dependencies will be considered within this context.[0m
-[0m[[0mdebug[0m] [0mNone of the modified names appears in /home/synerzip/sample2/src/main/scala/NodeDemo.scala. This dependency is not being considered for invalidation.[0m
-[0m[[0mdebug[0m] [0mNew invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mInitial set of included nodes: Set()[0m
-[0m[[0mdebug[0m] [0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
-[0m[[0mdebug[0m] [0m	Set()[0m
-[0m[[0mdebug[0m] [0mAll newly invalidated sources after taking into account (previously) recompiled sources:Set()[0m
+[0m[[0mdebug[0m] [0mAll initially invalidated sources: Set()[0m

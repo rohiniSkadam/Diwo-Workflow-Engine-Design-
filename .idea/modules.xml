@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample2.iml" filepath="$PROJECT_DIR$/.idea/modules/sample2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sample2-build.iml" filepath="$PROJECT_DIR$/.idea/modules/sample2-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diwoworkflowengin.iml" filepath="$PROJECT_DIR$/.idea/modules/diwoworkflowengin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/diwoworkflowengin-build.iml" filepath="$PROJECT_DIR$/.idea/modules/diwoworkflowengin-build.iml" />
     </modules>
   </component>
 </project>

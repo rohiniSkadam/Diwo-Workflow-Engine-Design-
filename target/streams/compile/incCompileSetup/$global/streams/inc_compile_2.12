@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /home/synerzip/sample2/target/scala-2.12/classes
+output dir -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes
 compile options:
 0 items
 javac options:
@@ -20,50 +20,50 @@ name hashing:
 0 -> true
 products:
 36 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Constructed$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Constructed.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$1.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$2.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$3.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$4.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$5.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$6.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/EmptyMessage$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/EmptyMessage.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/End$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/End.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/EndOfStream$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/EndOfStream.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Exception$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Exception.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Failure$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Failure.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/FutureComplete$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/FutureComplete.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Initialize$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Initialize.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Initiated$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Initiated.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/NodeData.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/NodeState.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Start$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Start.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Started$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Started.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Success$.class
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/sample2/target/scala-2.12/classes/Success.class
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/sample2/target/scala-2.12/classes/NodeDemo$.class
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/sample2/target/scala-2.12/classes/NodeDemo$delayedInit$body.class
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/sample2/target/scala-2.12/classes/NodeDemo.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Constructed$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Constructed.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$1.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$2.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$3.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$4.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$5.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$6.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EmptyMessage$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EmptyMessage.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/End$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/End.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EndOfStream$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EndOfStream.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Exception$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Exception.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Failure$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Failure.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/FutureComplete$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/FutureComplete.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initialize$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initialize.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initiated$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initiated.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeData.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeState.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Start$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Start.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Started$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Started.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Success$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Success.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo$.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo$delayedInit$body.class
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo.class
 binary dependencies:
 6 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -74,7 +74,7 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 1 items
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> /home/synerzip/sample2/src/main/scala/DiwoEngine.scala
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> /home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -83,189 +83,193 @@ inheritance external dependencies:
 0 items
 class names:
 36 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Constructed
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Constructed$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$1
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$2
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$3
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$4
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$5
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$6
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EmptyMessage
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EmptyMessage$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> End
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> End$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EndOfStream
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EndOfStream$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Exception
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Exception$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Failure
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Failure$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> FutureComplete
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> FutureComplete$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initialize
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initialize$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initiated
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initiated$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> NodeData
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> NodeState
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Start
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Start$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Started
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Started$
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Success
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Success$
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> NodeDemo
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> NodeDemo$
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> NodeDemo$delayedInit$body
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Constructed
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Constructed$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$2
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$3
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$4
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$5
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine$$anonfun$6
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EmptyMessage
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EmptyMessage$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> End
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> End$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EndOfStream
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EndOfStream$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Exception
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Exception$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Failure
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Failure$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> FutureComplete
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> FutureComplete$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initialize
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initialize$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initiated
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initiated$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> NodeData
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> NodeState
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Start
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Start$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Started
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Started$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Success
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Success$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> NodeDemo
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> NodeDemo$
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> NodeDemo$delayedInit$body
 used names:
-103 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> &&
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> +
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> ->
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> <init>
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> ==
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> A1
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> AnyRef
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> B1
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Constructed
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> DiwoEngine
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EmptyMessage
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> End
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> EndOfStream
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Exception
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> FSM
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Failure
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Function1
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> FutureComplete
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initialize
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Initiated
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> NodeData
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> NodeState
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Predef
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Product
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> ScalaRunTime
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Serializable
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Start
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Started
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Success
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> Unit
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> _1
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> _2
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> actor
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> akka
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> apply
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> asInstanceOf
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> displayState
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> event
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> get
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> goto
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> initialize
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> isEmpty
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> ne
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onEndOfStream
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onFailure
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onFutureComplete
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onInitialize
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onStart
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onSuccess
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> onTransition
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> println
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> runtime
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> scala
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> startWith
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> stateName
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> stay
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> stop
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> toString
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> typedProductIterator
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> unapply
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> unary_!
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> unchecked
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> using
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> when
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> whenUnhandled
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> !
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> <init>
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> ActorSystem
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> App
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> EmptyMessage
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> EndOfStream
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> Initialize
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> NodeDemo
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> Props
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> Start
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> Thread
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> actor
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> actorOf
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> actorRef2Scala
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> akka
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> apply
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> diwoEnginActor
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> java
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> lang
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> package
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> qual$1
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> qual$2
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> qual$3
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> qual$4
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> qual$5
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> scala
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> sleep
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> system
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$1
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$10
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$2
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$3
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$4
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$5
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$6
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$7
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$8
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> x$9
+107 items
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> &&
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> +
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> ->
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> <init>
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> ==
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> A1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> AnyRef
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> B1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Constructed
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> DiwoEngine
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EmptyMessage
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> End
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> EndOfStream
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Exception
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> FSM
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Failure
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Function1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> FutureComplete
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initialize
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Initiated
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> NodeData
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> NodeState
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Predef
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Product
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> ScalaRunTime
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Serializable
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Start
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Started
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Success
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> Unit
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> _1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> _2
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> actor
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> akka
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> apply
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> asInstanceOf
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> displayState
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> event
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> get
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> goto
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> initialize
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> isEmpty
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> ne
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onEndOfStream
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onFailure
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onFutureComplete
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onInitialize
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onStart
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onSuccess
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> onTransition
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> println
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> runtime
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> scala
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> startWith
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> stateName
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> stay
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> stop
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> toString
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> typedProductIterator
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> unapply
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> unary_!
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> unchecked
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> using
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> when
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> whenUnhandled
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> !
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> <init>
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> ActorSystem
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> App
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> EmptyMessage
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> EndOfStream
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> FutureComplete
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> Initialize
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> NodeDemo
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> Props
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> Start
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> Thread
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> actor
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> actorOf
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> actorRef2Scala
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> akka
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> apply
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> diwoEnginActor
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> java
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> lang
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> package
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$2
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$3
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$4
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$5
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> qual$6
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> scala
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> sleep
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> system
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$1
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$10
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$11
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$12
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$2
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$3
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$4
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$5
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$6
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$7
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$8
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> x$9
 product stamps:
 36 items
-/home/synerzip/sample2/target/scala-2.12/classes/Constructed$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Constructed.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$1.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$2.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$3.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$4.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$5.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine$$anonfun$6.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/DiwoEngine.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/EmptyMessage$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/EmptyMessage.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/End$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/End.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/EndOfStream$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/EndOfStream.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Exception$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Exception.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Failure$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Failure.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/FutureComplete$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/FutureComplete.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Initialize$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Initialize.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Initiated$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Initiated.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/NodeData.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/NodeDemo$.class -> lastModified(1493987902000)
-/home/synerzip/sample2/target/scala-2.12/classes/NodeDemo$delayedInit$body.class -> lastModified(1493987902000)
-/home/synerzip/sample2/target/scala-2.12/classes/NodeDemo.class -> lastModified(1493987902000)
-/home/synerzip/sample2/target/scala-2.12/classes/NodeState.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Start$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Start.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Started$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Started.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Success$.class -> lastModified(1494223129000)
-/home/synerzip/sample2/target/scala-2.12/classes/Success.class -> lastModified(1494223129000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Constructed$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Constructed.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$1.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$2.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$3.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$4.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$5.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine$$anonfun$6.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/DiwoEngine.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EmptyMessage$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EmptyMessage.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/End$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/End.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EndOfStream$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/EndOfStream.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Exception$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Exception.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Failure$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Failure.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/FutureComplete$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/FutureComplete.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initialize$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initialize.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initiated$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Initiated.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeData.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo$.class -> lastModified(1494227738000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo$delayedInit$body.class -> lastModified(1494227738000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeDemo.class -> lastModified(1494227738000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/NodeState.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Start$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Start.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Started$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Started.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Success$.class -> lastModified(1494223980000)
+/home/synerzip/DiwoWorkflowEngin/target/scala-2.12/classes/Success.class -> lastModified(1494223980000)
 source stamps:
 2 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> hash(0405d8c02c02de8977836fc82030b9489bd59f50)
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> hash(9c73ae33780eeecdeb153cf236e962052772c3a2)
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> hash(0405d8c02c02de8977836fc82030b9489bd59f50)
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> hash(3b9cdde686746dcab54906f9247857205b14b951)
 binary stamps:
 3 items
 /home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar -> lastModified(1492010834000)
@@ -273,25 +277,25 @@ binary stamps:
 /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar -> lastModified(1474586639000)
 class names:
 3 items
-/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar -> akka.actor.FSM
-/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.Serializable
+/home/synerzip/.ivy2/cache/com.typesafe.akka/akka-actor_2.12/jars/akka-actor_2.12-2.5.0.jar -> akka.actor.Props
+/home/synerzip/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.2.jar -> scala.App
 /usr/lib/jvm/jdk1.8.0_111/jre/lib/rt.jar -> java.lang.Object
 internal apis:
 2 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBhjA6nAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHokoL3QACHRvdGFsMnBmc3EAfgALS76QH3QABHNlbGZzcQB+AAuEYOLjdAAHY29udGV4dHVxAH4ACQAAAGhzcQB+AAvHklMedAAGbm90aWZ5c3EAfgALuaSs43QAB1JlY2VpdmVzcQB+AAsOtXIsdAAHU3RhcnRlZHNxAH4ACzcr24p0AAhzZXRUaW1lcnNxAH4ACw9c68J0AAR3YWl0c3EAfgALjpcFC3QAE3N0YXJ0V2l0aCRkZWZhdWx0JDNzcQB+AAvZqTiNdAAMb25Jbml0aWFsaXplc3EAfgALa6+HDHQADW5leHRTdGF0ZURhdGFzcQB+AAsNuJXAdAANJGFzSW5zdGFuY2VPZnNxAH4AC6O7Tz90AAlzdGFydFdpdGhzcQB+AAt+nVCsdAAFdXNpbmdzcQB+AAvoFvzEdAASaXNTdGF0ZVRpbWVyQWN0aXZlc3EAfgALBi/F13QADmxvZ1Rlcm1pbmF0aW9uc3EAfgALhP1rVHQAC0VuZE9mU3RyZWFtc3EAfgALxxKgcHQABGdvdG9zcQB+AAv191/bdAAJbGlzdGVuZXJzc3EAfgALbP6FdnQADHByb2R1Y3RBcml0eXNxAH4AC4dHrWd0AAZlcXVhbHNzcQB+AAv8UB8PdAAFRXZlbnRzcQB+AAvEzXMEdAAJc3RhdGVOYW1lc3EAfgALIZ5Hc3QADW9uVGVybWluYXRpb25zcQB+AAsqeM/wdAAQZ29zc2lwJGRlZmF1bHQkMnNxAH4AC7wKhLh0AAxhc0luc3RhbmNlT2ZzcQB+AAsgIkfudAAKRGl3b0VuZ2luZXNxAH4ACzqsADp0AAxzeW5jaHJvbml6ZWRzcQB+AAt1TWHedAACLT5zcQB+AAvG/buVdAANJGlzSW5zdGFuY2VPZnNxAH4ACwcJbkN0AAdyZWNlaXZlc3EAfgAL6RELO3QACnByZVJlc3RhcnRzcQB+AAv5OzmFdAAKZGVidWdFdmVudHNxAH4AC3wfe8t0AA1hcm91bmRSZWNlaXZlc3EAfgAL/Drr5nQAD1RyYW5zZm9ybUhlbHBlcnNxAH4ACybite50AAhjYW5FcXVhbHNxAH4AC0EZeFZ0AAtwb3N0UmVzdGFydHNxAH4AC5dQ8st0ABJsaXN0ZW5lck1hbmFnZW1lbnRzcQB+AAvtIPTVdAAFU3RhcnRzcQB+AAu/z9dUdAAIcG9zdFN0b3BzcQB+AAsgFrCLdAANcHJvZHVjdFByZWZpeHNxAH4AC/DzcHJ0AARzdG9wc3EAfgALMSAXN3QAEnNldFRpbWVyJGRlZmF1bHQkNHNxAH4AC8qLncZ0AAZnb3NzaXBzcQB+AAtFi4AKdAAJbm90aWZ5QWxsc3EAfgALCJ2puHQAC3JlYWRSZXNvbHZlc3EAfgALeY93SnQACUV4Y2VwdGlvbnNxAH4AC/C1lPh0AAppbml0aWFsaXplc3EAfgALlponX3QAEG9uRnV0dXJlQ29tcGxldGVzcQB+AAvG3ovEdAAJTm9kZVN0YXRlc3EAfgALTc58bnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALo0OqUXQAB0ZhaWx1cmVzcQB+AAuu4CXUdAAJc3RhdGVEYXRhc3EAfgALzZR8RXQADGlzSW5zdGFuY2VPZnNxAH4AC6zDLd10AA1TdGF0ZUZ1bmN0aW9uc3EAfgALoRCFYXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsgKRI0dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAu4HD8udAAKSW5pdGlhbGl6ZXNxAH4AC1ZOcXR0AA5tYWtlVHJhbnNpdGlvbnNxAH4AC0YrRed0AAlvblN1Y2Nlc3NzcQB+AAtEolpZdAAMU3RhdGVUaW1lb3V0c3EAfgAL0MN3mHQABjxpbml0PnNxAH4AC2NKiSJ0AAxwcm9jZXNzRXZlbnRzcQB+AAvnjIYPdAAOd2hlbiRkZWZhdWx0JDJzcQB+AAsFFqhqdAAIcHJlU3RhcnRzcQB+AAuH4HnNdAAJdW5oYW5kbGVkc3EAfgALprF5w3QAAj09c3EAfgALpha26HQAC2NhbmNlbFRpbWVyc3EAfgALe4FX/HQADWlzVGltZXJBY3RpdmVzcQB+AAvcxnq/dAAFY2xvbmVzcQB+AAsGOZZedAADRW5kc3EAfgAL64nh8HQAEVRyYW5zaXRpb25IYW5kbGVyc3EAfgALaxbkwnQADGRpc3BsYXlTdGF0ZXNxAH4AC+zExlN0AAZzZW5kZXJzcQB+AAsACUw0dAAJSW5pdGlhdGVkc3EAfgALs7oyt3QACHRvU3RyaW5nc3EAfgAL6BFPqHQABHN0YXlzcQB+AAtPAl5+dAALQ29uc3RydWN0ZWRzcQB+AAtXhB7ZdAAJU3RvcEV2ZW50c3EAfgALNIJLenQAAiE9c3EAfgALUBYk1HQADkZ1dHVyZUNvbXBsZXRlc3EAfgALnSG5qHQACGdldENsYXNzc3EAfgALFidgFHQADXdoZW5VbmhhbmRsZWRzcQB+AAsajkQUdAAFU3RhdGVzcQB+AAsN0b6wdAAHU3VjY2Vzc3NxAH4AC1yI82F0AAtvbkV4Y2VwdGlvbnNxAH4ACwOQbWt0AAlvbkZhaWx1cmVzcQB+AAuUa5yhdAAKYXBwbHlTdGF0ZXNxAH4ACzGtJKB0AAxFbXB0eU1lc3NhZ2VzcQB+AAtXyBp1dAACbmVzcQB+AAsQWSFYdAAITm9kZURhdGFzcQB+AAu3ye7DdAAMb25UcmFuc2l0aW9uc3EAfgALs0zr6HQADW9uRW5kT2ZTdHJlYW1zcQB+AAu504CXdAAHb25TdGFydHNxAH4AC0O8hlx0AAl0cmFuc2Zvcm1zcQB+AAtXITHgdAAEd2hlbnNxAH4AC1apfQ50ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsaMR0ddAACZXFzcQB+AAsdIwtWdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALL17HgXQAA2xvZ3NxAH4AC5mma9x0AAIjI3NxAH4AC3XK5oZ0AAhmaW5hbGl6ZXNxAH4AC9LtAjt0AA5wcm9kdWN0RWxlbWVudHNxAH4AC9dMGmJ0AAhoYXNoQ29kZXNxAH4AC6WeveF0AA5hcm91bmRQcmVTdGFydHNxAH4AC9afc8l0AAdUaW1lb3V0c3EAfgAL0vF4cXQAD3NldFN0YXRlVGltZW91dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAA9zcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AO14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAlxAH4AcXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BBXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BBABwc3EAfgEJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AO1MAAlpbmhlcml0ZWRxAH4A7UwAB3BhcmVudHNxAH4A7XhxAH4BDXNxAH4BBABwc3EAfgEJdXEAfgDoAAAAAHNxAH4BBABwc3EAfgEJdXEAfgDoAAAAAHNxAH4BBABwc3EAfgEJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6l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
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGDMniAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDcQ6JR0AAZub3RpZnlzcQB+AAy88ByodAAEd2FpdHNxAH4ADFPGu690AA0kYXNJbnN0YW5jZU9mc3EAfgAMFka++3QABnN5c3RlbXNxAH4ADOkRm9Z0AAZlcXVhbHNzcQB+AAzFGERTdAAMYXNJbnN0YW5jZU9mc3EAfgAMEno2J3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMINizMnQADHN5bmNocm9uaXplZHNxAH4ADJZowoZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHQ19PXQABG1haW5zcQB+AAyzZqhOdAAJbm90aWZ5QWxsc3EAfgAMRXgMhXQADGlzSW5zdGFuY2VPZnNxAH4ADAeoJ3d0AAI9PXNxAH4ADG7AXv10AAVjbG9uZXNxAH4ADJdkudx0AAhOb2RlRGVtb3NxAH4ADLRhIrF0AAh0b1N0cmluZ3NxAH4ADIh0czx0AARhcmdzc3EAfgAMWuukinQAAiE9c3EAfgAMv/l+U3QACGdldENsYXNzc3EAfgAMgsYrc3QAAm5lc3EAfgAM5qhjn3QAAmVxc3EAfgAMn3DoJ3QAC2RlbGF5ZWRJbml0c3EAfgAMIGXEYnQAAiMjc3EAfgAM68ZkYnQACGZpbmFsaXplc3EAfgAMp9CVSnQACGhhc2hDb2Rlc3EAfgAMRk1cX3QADmRpd29FbmdpbkFjdG9yc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBkAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGtzcQB+AGQBdXEAfgBGAAAAAHBzcQB+AGQBdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB1eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AWABxAH4AIXVxAH4AWgAAAABzcQB+AIJ0AARVbml0cQB+AIh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBddAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ag1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNxAH4AgnQABUFycmF5cQB+AIh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgnQABlN0cmluZ3NxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAAEbGFuZ3EAfgCTcHNxAH4AZAF1cQB+AKoAAAAEc3EAfgCCdAADQXBwcQB+AIhzcQB+AIJ0AAtEZWxheWVkSW5pdHEAfgCIc3EAfgCCdAAGT2JqZWN0cQB+AK5zcQB+AIJ0AANBbnlxAH4AiHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvYnjj6dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFJxzrjN4Du7N6xU88jbpYgUncsOi
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBhjA6nAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAADc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwHokoL3QACHRvdGFsMnBmc3EAfgALS76QH3QABHNlbGZzcQB+AAuEYOLjdAAHY29udGV4dHVxAH4ACQAAAGhzcQB+AAvHklMedAAGbm90aWZ5c3EAfgALuaSs43QAB1JlY2VpdmVzcQB+AAsOtXIsdAAHU3RhcnRlZHNxAH4ACzcr24p0AAhzZXRUaW1lcnNxAH4ACw9c68J0AAR3YWl0c3EAfgALjpcFC3QAE3N0YXJ0V2l0aCRkZWZhdWx0JDNzcQB+AAvZqTiNdAAMb25Jbml0aWFsaXplc3EAfgALa6+HDHQADW5leHRTdGF0ZURhdGFzcQB+AAsNuJXAdAANJGFzSW5zdGFuY2VPZnNxAH4AC6O7Tz90AAlzdGFydFdpdGhzcQB+AAt+nVCsdAAFdXNpbmdzcQB+AAvoFvzEdAASaXNTdGF0ZVRpbWVyQWN0aXZlc3EAfgALBi/F13QADmxvZ1Rlcm1pbmF0aW9uc3EAfgALhP1rVHQAC0VuZE9mU3RyZWFtc3EAfgALxxKgcHQABGdvdG9zcQB+AAv191/bdAAJbGlzdGVuZXJzc3EAfgALbP6FdnQADHByb2R1Y3RBcml0eXNxAH4AC4dHrWd0AAZlcXVhbHNzcQB+AAv8UB8PdAAFRXZlbnRzcQB+AAvEzXMEdAAJc3RhdGVOYW1lc3EAfgALIZ5Hc3QADW9uVGVybWluYXRpb25zcQB+AAsqeM/wdAAQZ29zc2lwJGRlZmF1bHQkMnNxAH4AC7wKhLh0AAxhc0luc3RhbmNlT2ZzcQB+AAsgIkfudAAKRGl3b0VuZ2luZXNxAH4ACzqsADp0AAxzeW5jaHJvbml6ZWRzcQB+AAt1TWHedAACLT5zcQB+AAvG/buVdAANJGlzSW5zdGFuY2VPZnNxAH4ACwcJbkN0AAdyZWNlaXZlc3EAfgAL6RELO3QACnByZVJlc3RhcnRzcQB+AAv5OzmFdAAKZGVidWdFdmVudHNxAH4AC3wfe8t0AA1hcm91bmRSZWNlaXZlc3EAfgAL/Drr5nQAD1RyYW5zZm9ybUhlbHBlcnNxAH4ACybite50AAhjYW5FcXVhbHNxAH4AC0EZeFZ0AAtwb3N0UmVzdGFydHNxAH4AC5dQ8st0ABJsaXN0ZW5lck1hbmFnZW1lbnRzcQB+AAvtIPTVdAAFU3RhcnRzcQB+AAu/z9dUdAAIcG9zdFN0b3BzcQB+AAsgFrCLdAANcHJvZHVjdFByZWZpeHNxAH4AC/DzcHJ0AARzdG9wc3EAfgALMSAXN3QAEnNldFRpbWVyJGRlZmF1bHQkNHNxAH4AC8qLncZ0AAZnb3NzaXBzcQB+AAtFi4AKdAAJbm90aWZ5QWxsc3EAfgALCJ2puHQAC3JlYWRSZXNvbHZlc3EAfgALeY93SnQACUV4Y2VwdGlvbnNxAH4AC/C1lPh0AAppbml0aWFsaXplc3EAfgALlponX3QAEG9uRnV0dXJlQ29tcGxldGVzcQB+AAvG3ovEdAAJTm9kZVN0YXRlc3EAfgALTc58bnQAEWFyb3VuZFBvc3RSZXN0YXJ0c3EAfgALo0OqUXQAB0ZhaWx1cmVzcQB+AAuu4CXUdAAJc3RhdGVEYXRhc3EAfgALzZR8RXQADGlzSW5zdGFuY2VPZnNxAH4AC6zDLd10AA1TdGF0ZUZ1bmN0aW9uc3EAfgALoRCFYXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsgKRI0dAAOYXJvdW5kUG9zdFN0b3BzcQB+AAu4HD8udAAKSW5pdGlhbGl6ZXNxAH4AC1ZOcXR0AA5tYWtlVHJhbnNpdGlvbnNxAH4AC0YrRed0AAlvblN1Y2Nlc3NzcQB+AAtEolpZdAAMU3RhdGVUaW1lb3V0c3EAfgAL0MN3mHQABjxpbml0PnNxAH4AC2NKiSJ0AAxwcm9jZXNzRXZlbnRzcQB+AAvnjIYPdAAOd2hlbiRkZWZhdWx0JDJzcQB+AAsFFqhqdAAIcHJlU3RhcnRzcQB+AAuH4HnNdAAJdW5oYW5kbGVkc3EAfgALprF5w3QAAj09c3EAfgALpha26HQAC2NhbmNlbFRpbWVyc3EAfgALe4FX/HQADWlzVGltZXJBY3RpdmVzcQB+AAvcxnq/dAAFY2xvbmVzcQB+AAsGOZZedAADRW5kc3EAfgAL64nh8HQAEVRyYW5zaXRpb25IYW5kbGVyc3EAfgALaxbkwnQADGRpc3BsYXlTdGF0ZXNxAH4AC+zExlN0AAZzZW5kZXJzcQB+AAsACUw0dAAJSW5pdGlhdGVkc3EAfgALs7oyt3QACHRvU3RyaW5nc3EAfgAL6BFPqHQABHN0YXlzcQB+AAtPAl5+dAALQ29uc3RydWN0ZWRzcQB+AAtXhB7ZdAAJU3RvcEV2ZW50c3EAfgALNIJLenQAAiE9c3EAfgALUBYk1HQADkZ1dHVyZUNvbXBsZXRlc3EAfgALnSG5qHQACGdldENsYXNzc3EAfgALFidgFHQADXdoZW5VbmhhbmRsZWRzcQB+AAsajkQUdAAFU3RhdGVzcQB+AAsN0b6wdAAHU3VjY2Vzc3NxAH4AC1yI82F0AAtvbkV4Y2VwdGlvbnNxAH4ACwOQbWt0AAlvbkZhaWx1cmVzcQB+AAuUa5yhdAAKYXBwbHlTdGF0ZXNxAH4ACzGtJKB0AAxFbXB0eU1lc3NhZ2VzcQB+AAtXyBp1dAACbmVzcQB+AAsQWSFYdAAITm9kZURhdGFzcQB+AAu3ye7DdAAMb25UcmFuc2l0aW9uc3EAfgALs0zr6HQADW9uRW5kT2ZTdHJlYW1zcQB+AAu504CXdAAHb25TdGFydHNxAH4AC0O8hlx0AAl0cmFuc2Zvcm1zcQB+AAtXITHgdAAEd2hlbnNxAH4AC1apfQ50ABJzdXBlcnZpc29yU3RyYXRlZ3lzcQB+AAsaMR0ddAACZXFzcQB+AAsdIwtWdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgALL17HgXQAA2xvZ3NxAH4AC5mma9x0AAIjI3NxAH4AC3XK5oZ0AAhmaW5hbGl6ZXNxAH4AC9LtAjt0AA5wcm9kdWN0RWxlbWVudHNxAH4AC9dMGmJ0AAhoYXNoQ29kZXNxAH4AC6WeveF0AA5hcm91bmRQcmVTdGFydHNxAH4AC9afc8l0AAdUaW1lb3V0c3EAfgAL0vF4cXQAD3NldFN0YXRlVGltZW91dHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAA9zcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AO14cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAlxAH4AcXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABVRyYWl0dXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4BBXhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4BBABwc3EAfgEJc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AO1MAAlpbmhlcml0ZWRxAH4A7UwAB3BhcmVudHNxAH4A7XhxAH4BDXNxAH4BBABwc3EAfgEJdXEAfgDoAAAAAHNxAH4BBABwc3EAfgEJdXEAfgDoAAAAAHNxAH4BBABwc3EAfgEJdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgEMdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgEMc3IADnhzYnRpLmFwaS5QYXRomz1cCM6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
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCGDMniAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cDcQ6JR0AAZub3RpZnlzcQB+AAy88ByodAAEd2FpdHNxAH4ADFPGu690AA0kYXNJbnN0YW5jZU9mc3EAfgAMFka++3QABnN5c3RlbXNxAH4ADOkRm9Z0AAZlcXVhbHNzcQB+AAzFGERTdAAMYXNJbnN0YW5jZU9mc3EAfgAMEno2J3QADmV4ZWN1dGlvblN0YXJ0c3EAfgAMINizMnQADHN5bmNocm9uaXplZHNxAH4ADJZowoZ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMHQ19PXQABG1haW5zcQB+AAyzZqhOdAAJbm90aWZ5QWxsc3EAfgAMRXgMhXQADGlzSW5zdGFuY2VPZnNxAH4ADAeoJ3d0AAI9PXNxAH4ADG7AXv10AAVjbG9uZXNxAH4ADJdkudx0AAhOb2RlRGVtb3NxAH4ADLRhIrF0AAh0b1N0cmluZ3NxAH4ADIh0czx0AARhcmdzc3EAfgAMWuukinQAAiE9c3EAfgAMv/l+U3QACGdldENsYXNzc3EAfgAMgsYrc3QAAm5lc3EAfgAM5qhjn3QAAmVxc3EAfgAMn3DoJ3QAC2RlbGF5ZWRJbml0c3EAfgAMIGXEYnQAAiMjc3EAfgAM68ZkYnQACGZpbmFsaXplc3EAfgAMp9CVSnQACGhhc2hDb2Rlc3EAfgAMRk1cX3QADmRpd29FbmdpbkFjdG9yc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgArdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAEHNjYWxhLmRlcHJlY2F0ZWR0ABpzY2FsYS5kZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBkAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBLTAAJaW5oZXJpdGVkcQB+AEtMAAdwYXJlbnRzcQB+AEt4cQB+AGtzcQB+AGQBdXEAfgBGAAAAAHBzcQB+AGQBdXEAfgBGAAAAAXNyAA14c2J0aS5hcGkuRGVmUr6f4ny0NmkCAAJMAApyZXR1cm5UeXBldAAQTHhzYnRpL2FwaS9UeXBlO1sAD3ZhbHVlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1BhcmFtZXRlckxpc3Q7eHEAfgBMcQB+AFV1cQB+AFYAAAABc3IAFHhzYnRpLmFwaS5Bbm5vdGF0aW9u3g6BovZcCrICAAJbAAlhcmd1bWVudHN0AB9bTHhzYnRpL2FwaS9Bbm5vdGF0aW9uQXJndW1lbnQ7TAAEYmFzZXEAfgB1eHB1cgAfW0x4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW50O1Gdpo84JQ94AgAAeHAAAAABc3IAHHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnTWRbHYAxsXfAIAAkwABG5hbWVxAH4ADUwABXZhbHVlcQB+AA14cHQAAHQAKigibWFpbiBzaG91bGQgbm90IGJlIG92ZXJyaWRkZW4iLCIyLjExLjAiKXNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AGp0ABRkZXByZWNhdGVkT3ZlcnJpZGluZ3NyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AanNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4Aj3NxAH4AWABxAH4AIXVxAH4AWgAAAABzcQB+AIJ0AARVbml0cQB+AIh1cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgB1eHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBddAAFUGxhaW5xAH4AL3NyABd4c2J0aS5hcGkuUGFyYW1ldGVyaXplZBZs7mkDybt/AgACTAAIYmFzZVR5cGVxAH4Ag1sADXR5cGVBcmd1bWVudHN0ABFbTHhzYnRpL2FwaS9UeXBlO3hxAH4AanNxAH4AgnQABUFycmF5cQB+AIh1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAXNxAH4AgnQABlN0cmluZ3NxAH4AhnNxAH4AiXVxAH4AjAAAAANzcQB+AI50AARqYXZhc3EAfgCOdAAEbGFuZ3EAfgCTcHNxAH4AZAF1cQB+AKoAAAAEc3EAfgCCdAADQXBwcQB+AIhzcQB+AIJ0AAtEZWxheWVkSW5pdHEAfgCIc3EAfgCCdAAGT2JqZWN0cQB+AK5zcQB+AIJ0AANBbnlxAH4AiHBwdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVvm6dCedXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQ7nN3mhnRtyrVJBvkkeFcgWxS5UQ==
 external apis:
 0 items
 source infos:
 2 items
-/home/synerzip/sample2/src/main/scala/DiwoEngine.scala -> 
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/DiwoEngine.scala -> 
 AAAAAAAAAAA=
-/home/synerzip/sample2/src/main/scala/NodeDemo.scala -> 
+/home/synerzip/DiwoWorkflowEngin/src/main/scala/NodeDemo.scala -> 
 AAAAAAAAAAA=
 compilations:
-146 items
+152 items
 000 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW83EPjh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 001 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW83HhTR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 002 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW83Jq8F1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
@@ -438,3 +442,9 @@ compilations:
 143 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW9ipuBB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 144 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+aZNNF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
 145 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+ajedN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAMC9ob21lL3N5bmVyemlwL3NhbXBsZTIvdGFyZ2V0L3NjYWxhLTIuMTIvY2xhc3Nlc3QAAS8=
+146 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+awcuR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+147 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+bk04d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+148 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+blmzl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+149 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+bmU891cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+150 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+bosQl1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
+151 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABW+bp0J51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOi9ob21lL3N5bmVyemlwL0Rpd29Xb3JrZmxvd0VuZ2luL3RhcmdldC9zY2FsYS0yLjEyL2NsYXNzZXN0AAEv
