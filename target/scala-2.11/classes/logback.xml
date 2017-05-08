@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration>
 
-   <!-- <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
+    <appender name="CONSOLE" class="ch.qos.logback.core.ConsoleAppender">
         <target>System.out</target>
         <encoder>
-            <pattern>%X{akkaTimestamp} %-5level[%thread] %logger{0} - %msg%n</pattern>
+            <pattern>%-5level[%thread] %logger{0} - %msg%n</pattern>
         </encoder>
-    </appender>-->
+    </appender>
 
     <appender name="FILE" class="ch.qos.logback.core.FileAppender">
         <file>DiwoEngineLog.log</file>
@@ -19,7 +19,7 @@
     <logger name="akka" level="DEBUG" />
 
     <root level="DEBUG">
-       <!-- <appender-ref ref="CONSOLE"/> -->
+        <appender-ref ref="CONSOLE"/>
         <appender-ref ref="FILE"/>
     </root>
 

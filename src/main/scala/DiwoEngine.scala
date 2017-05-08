@@ -25,7 +25,7 @@ class DiwoEngine extends FSM[NodeState, NodeData] with ActorLogging {
 
   // To set initial state
   startWith(Constructed, Initialize)
-  log.info("Initial state is {}",Constructed)
+  log.info("Initial state is set to {}",Constructed)
 
   // When Initialize Event It calls displayState method & also changes node state from constructed to Initiated
   when(Constructed) {
@@ -83,7 +83,6 @@ class DiwoEngine extends FSM[NodeState, NodeData] with ActorLogging {
    */
   whenUnhandled {
     case Event(event, state) =>
-      println("Unhandled Event Occurred in State "+stateName+"\n")
       log.info("Unhandled event occurred in state {}",stateName)
       stay()
   }
@@ -92,66 +91,55 @@ class DiwoEngine extends FSM[NodeState, NodeData] with ActorLogging {
   Set handler which is called upon each state transition
   */
   onTransition {
-    case Constructed -> Initiated => println("Moved from Constructed to Initiated State \n ")
-      log.info("State changed from Constructed to Initiated")
-    case Initiated -> Started => println("Moved from Initiated to Started State \n ")
-      log.info("State Changed from Initiated to Started")
-    case Started -> End => println("Moved from Started to End State\n ")
-      log.info("State changed from Started to End")
+    case Constructed -> Initiated => log.info("State changed from Constructed to Initiated")
+    case Initiated -> Started => log.info("State Changed from Initiated to Started")
+    case Started -> End => log.info("State changed from Started to End")
   }
 
-  //displays state when Initialization event occurred
+  //Executes when Initialization event occurred
   def onInitialize(): Unit ={
     displayState()
-    println("On Initialize event.")
     log.info("On initialize event")
   }
 
-  //displays state when Start event occurred
+  // Executes when Start event occurred
   def onStart(): Unit ={
     displayState()
-    println("On Start event." )
     log.info("On start event")
   }
 
-  //displays state when Failure event occurred
+  // Executes when Failure event occurred
   def onFailure(): Unit ={
     displayState()
-    println("On Failure event.")
     log.info("On failure event")
   }
 
-  //displays state when End of stream event occurred
+  // Executes when End of stream event occurred
   def onEndOfStream(): Unit ={
     displayState()
-    println("On End of stream event.")
     log.info("On End of stream event")
   }
 
-  //displays state when On Future Complete event occurred
+  // Executes when On Future Complete event occurred
   def onFutureComplete(): Unit ={
     displayState()
-    println("On Future Complete event.")
     log.info("On future complete event")
   }
 
-  //displays state when success event occurred
+  // Executes when success event occurred
   def onSuccess(): Unit ={
     displayState()
-    println("On Success event.")
     log.info("On success event")
   }
 
-  //displays state when Exception event occurred
+  // Executes when Exception event occurred
   def onException(): Unit ={
     displayState()
-    println("On Exception event.")
     log.info("On Exception event")
   }
 
-  //Displays current state name
+  // To show current state name
   def displayState(): Unit = {
-    println("Current State : "+stateName)
     log.debug("Current state is : {} ",stateName)
   }
 
