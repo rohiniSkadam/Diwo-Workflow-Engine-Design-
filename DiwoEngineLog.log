@@ -230,3 +230,264 @@
 2017-05-08 11:10:57.587UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
 2017-05-08 11:10:57.588UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
 2017-05-08 11:10:57.614UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-3] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 11:22:09.744UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 11:22:09.745UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - Default Loggers started
+2017-05-08 11:22:09.772UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Initial state is set to Constructed
+2017-05-08 11:22:09.779UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Constructed 
+2017-05-08 11:22:09.780UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On initialize event
+2017-05-08 11:22:09.780UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 11:22:10.269UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 11:22:10.769UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Initiated 
+2017-05-08 11:22:10.769UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On start event
+2017-05-08 11:22:10.769UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 11:22:11.269UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Started 
+2017-05-08 11:22:11.269UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On End of stream event
+2017-05-08 11:22:11.269UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State changed from Started to End
+2017-05-08 11:22:11.770UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 11:24:08.447UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 11:24:08.457UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 11:24:08.463UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 11:24:08.464UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 11:24:08.464UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 11:24:08.464UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 11:24:08.464UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 11:24:08.465UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 11:24:08.465UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 11:24:08.465UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 11:24:08.465UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 11:24:08.465UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 11:24:08.466UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 11:24:08.492UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-4] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 11:24:14.773UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 11:24:14.774UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - Default Loggers started
+2017-05-08 11:24:14.805UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Initial state is set to Constructed
+2017-05-08 11:24:14.812UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Constructed 
+2017-05-08 11:24:14.813UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On initialize event
+2017-05-08 11:24:14.813UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 11:24:15.300UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 11:24:15.799UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Initiated 
+2017-05-08 11:24:15.799UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On start event
+2017-05-08 11:24:15.799UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 11:24:16.299UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Started 
+2017-05-08 11:24:16.300UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On End of stream event
+2017-05-08 11:24:16.300UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State changed from Started to End
+2017-05-08 11:24:16.800UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 11:24:27.710UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 11:24:27.718UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 11:24:27.726UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 11:24:27.727UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 11:24:27.735UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 11:24:27.767UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-4] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 11:24:57.411UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 11:24:57.412UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - Default Loggers started
+2017-05-08 11:24:57.445UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Initial state is set to Constructed
+2017-05-08 11:24:57.453UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Constructed 
+2017-05-08 11:24:57.454UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On initialize event
+2017-05-08 11:24:57.454UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 11:24:57.941UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 11:24:58.440UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Initiated 
+2017-05-08 11:24:58.440UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On start event
+2017-05-08 11:24:58.440UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 11:24:58.940UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Started 
+2017-05-08 11:24:58.940UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On End of stream event
+2017-05-08 11:24:58.941UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Started to End
+2017-05-08 11:24:59.441UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 11:25:11.319UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 11:25:11.328UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 11:25:11.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 11:25:11.344UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 11:25:11.366UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-4] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 12:41:28.238UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 12:41:28.239UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - Default Loggers started
+2017-05-08 12:41:28.269UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Initial state is set to Constructed
+2017-05-08 12:41:28.276UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Constructed 
+2017-05-08 12:41:28.276UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On initialize event
+2017-05-08 12:41:28.276UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 12:41:28.765UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 12:41:29.264UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Initiated 
+2017-05-08 12:41:29.264UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On start event
+2017-05-08 12:41:29.265UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 12:41:29.765UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Started 
+2017-05-08 12:41:29.765UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On End of stream event
+2017-05-08 12:41:29.765UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Started to End
+2017-05-08 12:41:30.265UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 13:07:18.523UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 13:07:18.531UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 13:07:18.542UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 13:07:18.543UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 13:07:18.543UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 13:07:18.543UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 13:07:18.543UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 13:07:18.543UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 13:07:18.544UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 13:07:18.544UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 13:07:18.544UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 13:07:18.544UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 13:07:18.545UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 13:07:18.565UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 13:07:55.526UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 13:07:55.527UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - Default Loggers started
+2017-05-08 13:07:55.558UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Initial state is set to Constructed
+2017-05-08 13:07:55.565UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Current state is : Constructed 
+2017-05-08 13:07:55.565UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - On initialize event
+2017-05-08 13:07:55.565UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 13:07:56.054UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 13:07:56.554UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Current state is : Initiated 
+2017-05-08 13:07:56.554UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - On start event
+2017-05-08 13:07:56.554UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 13:07:57.054UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Started 
+2017-05-08 13:07:57.054UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On End of stream event
+2017-05-08 13:07:57.055UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Started to End
+2017-05-08 13:07:57.555UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 13:08:07.619UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 13:08:07.629UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 13:08:07.637UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 13:08:07.637UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 13:08:07.637UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 13:08:07.637UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 13:08:07.647UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 13:08:07.647UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 13:08:07.647UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 13:08:07.648UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 13:08:07.648UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 13:08:07.648UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 13:08:07.649UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 13:08:07.669UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-08  INFO [DiwoEngine-akka.actor.default-dispatcher-5] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-08 13:08:56.899UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-08 13:08:56.900UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.e.EventStream - Default Loggers started
+2017-05-08 13:08:56.936UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Initial state is set to Constructed
+2017-05-08 13:08:56.950UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Current state is : Constructed 
+2017-05-08 13:08:56.950UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - On initialize event
+2017-05-08 13:08:56.951UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - State changed from Constructed to Initiated
+2017-05-08 13:08:57.432UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-08 13:08:57.931UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Current state is : Initiated 
+2017-05-08 13:08:57.931UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - On start event
+2017-05-08 13:08:57.931UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - State Changed from Initiated to Started
+2017-05-08 13:08:58.431UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Started 
+2017-05-08 13:08:58.431UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On End of stream event
+2017-05-08 13:08:58.432UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State changed from Started to End
+2017-05-08 13:08:58.932UTC INFO [DiwoEngine-akka.actor.default-dispatcher-5] DiwoEngine - Unhandled event occurred in state End
+2017-05-08 13:46:52.707UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-08 13:46:52.717UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-08 13:46:52.729UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-08 13:46:52.741UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-08 13:46:52.741UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-08 13:46:52.741UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-08 13:46:52.747UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-08 13:46:52.747UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-08 13:46:52.747UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-08 13:46:52.747UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-08 13:46:52.747UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-08 13:46:52.748UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-08 13:46:52.749UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-7] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-08 13:46:52.768UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-09  INFO [DiwoEngine-akka.actor.default-dispatcher-4] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-09 10:42:20.205UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-09 10:42:20.206UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.e.EventStream - Default Loggers started
+2017-05-09 10:42:20.324UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Initial state is set to Constructed
+2017-05-09 10:42:20.334UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Constructed 
+2017-05-09 10:42:20.335UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On initialize event
+2017-05-09 10:42:20.335UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State changed from Constructed to Initiated
+2017-05-09 10:42:20.863UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-09 10:42:21.303UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Initiated 
+2017-05-09 10:42:21.304UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On start event
+2017-05-09 10:42:21.304UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State Changed from Initiated to Started
+2017-05-09 10:42:21.804UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Started 
+2017-05-09 10:42:21.804UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On End of stream event
+2017-05-09 10:42:21.805UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Started to End
+2017-05-09 10:42:22.304UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state End
+2017-05-09 13:37:47.997UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-09 13:37:48.003UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-09 13:37:48.032UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-09 13:37:48.034UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-09 13:37:48.035UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-09 13:37:48.062UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-10  INFO [DiwoEngine-akka.actor.default-dispatcher-3] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-10 05:29:31.868UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-10 05:29:31.869UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] a.e.EventStream - Default Loggers started
+2017-05-10 05:29:31.896UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Initial state is set to Constructed
+2017-05-10 05:29:31.903UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Constructed 
+2017-05-10 05:29:31.904UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On initialize event
+2017-05-10 05:29:31.904UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State changed from Constructed to Initiated
+2017-05-10 05:29:32.393UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-10 05:29:32.892UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Initiated 
+2017-05-10 05:29:32.893UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On start event
+2017-05-10 05:29:32.893UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State Changed from Initiated to Started
+2017-05-10 05:29:33.393UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Current state is : Started 
+2017-05-10 05:29:33.393UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - On End of stream event
+2017-05-10 05:29:33.394UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - State changed from Started to End
+2017-05-10 05:29:33.894UTC INFO [DiwoEngine-akka.actor.default-dispatcher-4] DiwoEngine - Unhandled event occurred in state End
+2017-05-10 06:05:39.058UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-10 06:05:39.067UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-10 06:05:39.076UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-10 06:05:39.078UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-10 06:05:39.080UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-10 06:05:39.101UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-5] a.e.EventStream - shutting down: StandardOutLogger started
+2017-05-10  INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.e.s.Slf4jLogger - Slf4jLogger started
+2017-05-10 06:05:49.305UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - logger log1-Slf4jLogger started
+2017-05-10 06:05:49.305UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - Default Loggers started
+2017-05-10 06:05:49.329UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Initial state is set to Constructed
+2017-05-10 06:05:49.336UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Constructed 
+2017-05-10 06:05:49.336UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On initialize event
+2017-05-10 06:05:49.336UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State changed from Constructed to Initiated
+2017-05-10 06:05:49.824UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Unhandled event occurred in state Initiated
+2017-05-10 06:05:50.323UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Current state is : Initiated 
+2017-05-10 06:05:50.323UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - On start event
+2017-05-10 06:05:50.323UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - State Changed from Initiated to Started
+2017-05-10 06:05:50.823UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - Current state is : Started 
+2017-05-10 06:05:50.823UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - On End of stream event
+2017-05-10 06:05:50.824UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] DiwoEngine - State changed from Started to End
+2017-05-10 06:05:51.324UTC INFO [DiwoEngine-akka.actor.default-dispatcher-3] DiwoEngine - Unhandled event occurred in state End
+2017-05-10 06:06:16.770UTC INFO [DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Starting coordinated shutdown from JVM shutdown hook
+2017-05-10 06:06:16.772UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.a.CoordinatedShutdown - Performing phase [before-service-unbind] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-unbind] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-requests-done] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [service-stop] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [before-cluster-shutdown] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-4] a.a.CoordinatedShutdown - Performing phase [cluster-sharding-shutdown-region] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [cluster-leave] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [cluster-exiting] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [cluster-exiting-done] with [0] tasks
+2017-05-10 06:06:16.784UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [cluster-shutdown] with [0] tasks
+2017-05-10 06:06:16.785UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [before-actor-system-terminate] with [0] tasks
+2017-05-10 06:06:16.785UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-6] a.a.CoordinatedShutdown - Performing phase [actor-system-terminate] with [1] tasks: [terminate-system]
+2017-05-10 06:06:16.808UTC DEBUG[DiwoEngine-akka.actor.default-dispatcher-2] a.e.EventStream - shutting down: StandardOutLogger started

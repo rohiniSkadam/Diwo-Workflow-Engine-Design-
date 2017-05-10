@@ -21,7 +21,7 @@ case object Exception extends NodeData
 case object EmptyMessage extends NodeData
 case object FutureComplete extends NodeData
 
-class DiwoEngine extends FSM[NodeState, NodeData] with ActorLogging {
+class DiwoEngine extends FSM[NodeState, NodeData] {
 
   // To set initial state
   startWith(Constructed, Initialize)

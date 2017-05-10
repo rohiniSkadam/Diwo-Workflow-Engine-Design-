@@ -7,7 +7,7 @@
 		revision="1.0"
 		conf="compile-internal"
 		confs="compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool"
-		date="20170508150933"/>
+		date="20170510105245"/>
 	<dependencies>
 		<module organisation="ch.qos.logback" name="logback-classic">
 			<revision name="1.2.3" status="release" pubdate="20170401005753" resolver="sbt-chain" artresolver="sbt-chain" homepage="" downloaded="false" searched="false" default="false" conf="default, compile, runtime, default(compile), master" position="5">
@@ -17,10 +17,10 @@
 					<artifact name="logback-classic" type="jar" ext="jar" status="no" details="" size="290339" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-classic/jars/logback-classic-1.2.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3.jar"/>
 					</artifact>
-					<artifact name="logback-classic" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="230201" time="1495" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.2.3-sources.jar">
+					<artifact name="logback-classic" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="230201" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-classic/srcs/logback-classic-1.2.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-sources.jar"/>
 					</artifact>
-					<artifact name="logback-classic" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1045814" time="2172" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-classic/docs/logback-classic-1.2.3-javadoc.jar">
+					<artifact name="logback-classic" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1045814" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-classic/docs/logback-classic-1.2.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.2.3/logback-classic-1.2.3-javadoc.jar"/>
 					</artifact>
 				</artifacts>
@@ -51,10 +51,10 @@
 					<artifact name="logback-core" type="jar" ext="jar" status="no" details="" size="471901" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-core/jars/logback-core-1.2.3.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3.jar"/>
 					</artifact>
-					<artifact name="logback-core" type="doc" ext="jar" extra-classifier="javadoc" status="successful" details="" size="1975248" time="3021" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-core/docs/logback-core-1.2.3-javadoc.jar">
+					<artifact name="logback-core" type="doc" ext="jar" extra-classifier="javadoc" status="no" details="" size="1975248" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-core/docs/logback-core-1.2.3-javadoc.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-javadoc.jar"/>
 					</artifact>
-					<artifact name="logback-core" type="src" ext="jar" extra-classifier="sources" status="successful" details="" size="399141" time="1635" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-core/srcs/logback-core-1.2.3-sources.jar">
+					<artifact name="logback-core" type="src" ext="jar" extra-classifier="sources" status="no" details="" size="399141" time="0" location="/home/synerzip/.ivy2/cache/ch.qos.logback/logback-core/srcs/logback-core-1.2.3-sources.jar">
 						<origin-location is-local="false" location="https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.2.3/logback-core-1.2.3-sources.jar"/>
 					</artifact>
 				</artifacts>

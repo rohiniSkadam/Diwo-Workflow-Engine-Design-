@@ -4,7 +4,7 @@
 		module="sample2$sources_javadoc_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20170508150933"
+		publication="20170510105245"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

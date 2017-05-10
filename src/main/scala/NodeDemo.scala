@@ -1,6 +1,4 @@
 import akka.actor.{ActorSystem, Props}
-import akka.event.Logging
-
 /**
   * Created by synerzip on 4/5/17.
   */
